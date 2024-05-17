@@ -1,14 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import MainNavbar from './components/MainNavbar';
+import LandingCarousel from './components/LandingPage';
 
 function App() {
   return (
     <div className="App">
       <MainNavbar/>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <LandingCarousel/>
     </div>
   );
 }
