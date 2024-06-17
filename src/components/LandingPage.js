@@ -1,6 +1,5 @@
 import Carousel from 'react-bootstrap/Carousel';
 import '../styles/LandingPage.css';
-import logo from '../logo.svg';
 import roller from '../assets/green-roller.jpg';
 
 function LandingCarousel() {
