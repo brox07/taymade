@@ -1,5 +1,7 @@
 import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
 
+import '../styles/MainNavbar.css';
+
 import Home from '../pages/Home';
 import About from '../pages/About';
 import Contact from '../pages/Contact';
@@ -15,7 +17,7 @@ import { Route, Link, Routes, Outlet } from 'react-router-dom';
 function MainNavbar() {
   return (
     <div>
-      <Navbar expand="lg" className="bg-body-tertiary">
+      <Navbar expand="lg" className="navbar">
         <Container>
           <Navbar.Brand as={Link} to="/">Taylor Made Esthetics</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
