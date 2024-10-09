@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9605eef5.css",
+    "main.js": "/static/js/main.cb676d23.js",
+    "static/media/green-roller.jpg": "/static/media/green-roller.bb18cf95bd91395af7e9.jpg",
+    "static/media/carousel-image-2.png": "/static/media/carousel-image-2.22550127fe2ab8e11cfa.png",
+    "static/media/carousel-image-1.png": "/static/media/carousel-image-1.e29436788fc3565f91d2.png",
+    "static/media/carousel-image-3.png": "/static/media/carousel-image-3.d0f7a8579318ff44e4bf.png",
+    "static/media/tay.jpg": "/static/media/tay.07e9010f459465d64645.jpg",
+    "static/media/ks-board-of-cosmo.png": "/static/media/ks-board-of-cosmo.e90630ef7b9bd9dadc27.png",
+    "static/media/entourage-logo.png": "/static/media/entourage-logo.a5bf9029d4a258bd8860.png",
+    "index.html": "/index.html",
+    "main.9605eef5.css.map": "/static/css/main.9605eef5.css.map",
+    "main.cb676d23.js.map": "/static/js/main.cb676d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9605eef5.css",
+    "static/js/main.cb676d23.js"
+  ]
+}
